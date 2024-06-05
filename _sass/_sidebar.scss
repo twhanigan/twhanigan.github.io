@@ -52,7 +52,7 @@
   }
 
   img {
-    width: 100%;
+    width: 120%;
   }
 }
 
@@ -90,12 +90,12 @@
   }
 
   img {
-    #max-width: 175px;
-    #border-radius: 50%;
-    width: 125%;
-    #@include breakpoint($large) {
-    #  padding: 5px;
-    #  border: 1px solid $border-color;
+    max-width: 175px;
+    border-radius: 50%;
+
+    @include breakpoint($large) {
+      padding: 5px;
+      border: 1px solid $border-color;
     }
   }
 }
