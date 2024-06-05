@@ -5,14 +5,7 @@ Name Name:
   uri         : "http://hanigan-lab.org"
   email       : "thanigan@central.UH.edu"
   bio         : "Thomas"
-  avatar      : "bio-photo_2.jpg"
+  avatar      : "/images/bio-photo_2.jpg"
   twitter     : "twhanigan"
   google_plus : "twhanigan"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
