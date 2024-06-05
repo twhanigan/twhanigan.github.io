@@ -5,7 +5,7 @@ Name Name:
   uri         : "http://hanigan-lab.org"
   email       : "thanigan@central.UH.edu"
   bio         : "Thomas"
-  avatar      : "bio-photo.png"
+  avatar      : "/images/bio-photo.png"
   twitter     : "twhanigan"
   google_plus : "twhanigan"
 
