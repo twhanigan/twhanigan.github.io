@@ -22,7 +22,7 @@ logo                     : "/images/foo-bar-identity-th.jpg"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/bio-photo_2.jpg"
+  avatar           : "/images/bio-photo.png"
   name             : "Thomas Hanigan"
   pronouns         : "he/him/his"  
   bio              : "Harnessing Metabolic Regulation for Treatment of Cancer and Metabolic Disease"
