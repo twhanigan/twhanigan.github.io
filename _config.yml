@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "bio-profile.jpg"
-  name             : "Your Sidebar Name"
+  avatar           : "bio-photo.jpg"
+  name             : "Thomas Hanigan"
   pronouns         : "he/him"  
   bio              : "Harnessing Metabolic Regulation for Treatment of Cancer and Metabolic Disease"
   location         : "University of Houston"
