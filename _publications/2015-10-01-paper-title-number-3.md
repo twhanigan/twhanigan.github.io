@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Proteomic discovery of chemical probes that perturb protein complexes in human cells"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2023-04-20
+venue: 'Molecular Cell'
+slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://doi.org/10.1016/j.molcel.2023.03.026'
+citation: 'Michael R. Lazear, Jarrett R. Remsberg, Martin G. Jaeger, Katherine Rothamel, Hsuan-lin Her, Kristen E. DeMeester, Evert Njomen, Simon J. Hogg, Jahan Rahman, Landon R. Whitby, Sang Joon Won, Michael A. Schafroth, Daisuke Ogasawara, Minoru Yokoyama, Garrett L. Lindsey, Haoxin Li, Jason Germain, Sabrina Barbas, Joan Vaughan, Thomas W. Hanigan, Vincent F. Vartabedian, Christopher J. Reinhardt, Melissa M. Dix, Seong Joo Koo, Inha Heo, John R. Teijaro, Gabriel M. Simon, Brahma Ghosh, Omar Abdel-Wahab, Kay Ahn, Alan Saghatelian, Bruno Melillo, Stuart L. Schreiber, Gene W. Yeo, Benjamin F. Cravatt. Proteomic discovery of chemical probes that perturb protein complexes in human cells. Bioarxiv. 2022. https://doi.org/10.1101/2022.12.12.520090'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
