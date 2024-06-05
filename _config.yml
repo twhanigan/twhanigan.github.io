@@ -27,11 +27,11 @@ author:
   pronouns         : "he/him/his"  
   bio              : "Harnessing Metabolic Regulation for Treatment of Cancer and Metabolic Disease"
   location         : "University of Houston"
-  uri              : # URL
+  #uri              : # URL
   email            : "thanigan@central.uh.edu" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  bioarxiv            : "https://www.biorxiv.org/search/hanigan%252C%252Btw"
   researchgate    : "https://www.researchgate.net/profile/Thomas-Hanigan"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-0752-4707"
