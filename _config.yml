@@ -31,13 +31,13 @@ author:
   email            : "thanigan@central.uh.edu" 
 
   # Academic websites
-  biorxiv            : "https://www.biorxiv.org/search/hanigan%252C%252Btw"
-  researchgate    : "https://www.researchgate.net/profile/Thomas-Hanigan"
+  biorxiv          : "https://www.biorxiv.org/search/hanigan%252C%252Btw"
+  researchgate     : "https://www.researchgate.net/profile/Thomas-Hanigan"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-0752-4707"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Hanigan+TW[Author]&sort="
-  #researchgate     : # URL
+  #researchgate    : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
