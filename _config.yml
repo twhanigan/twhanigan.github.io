@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-0752-4707"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Hanigan+TW[Author]&sort="
-  researchgate     : # URL
+  #researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
