@@ -17,22 +17,19 @@ Tel: (319) 389-5342 Email: twhanigan@gmail.com
 
 Education 
 ======
-The Scripps Research Institute 
+The Scripps Research Institute 2018-2023 
 Postdoctoral Associate  
 The University of Iowa 
-Research Assistant  
-The University of Illinois 
+Research Assistant  2018 
+The University of Illinois 2012-2017 
 Ph.D. in Medicinal Chemistry  
-Iowa State University 
+Iowa State University 2007-2012 
 B.S. in Chemistry  
 B.S. in Materials Engineering  
 
 Research Experience 
 ======
-2018-2023 
-2018 
-2012-2017 
-2007-2012 
+
 Postdoctoral Associate 
 Advisement: Benjamin Cravatt, Ph.D. 
 Project 1: Leveraging fully functionalized photoreactive probes for target 
@@ -62,12 +59,7 @@ Advisement: Scott Chumbley, Ph.D. and Alan Russell Ph.D.
 Iowa State Materials Engineering 
 Project: Noninvasive fatigue crack detection to decrease risk of catastrophic 
 failure of ammonia nurse tanks 
-2018-2023 
-2018 
-2017 
-2012-2017 
-2011-2012 
- 
+
 Awards and Fellowships 
 ======
 PIIPS Fellowship: American Society for Pharmacology and Experimental 
