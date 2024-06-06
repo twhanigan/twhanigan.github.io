@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: talk
 title: "Team"
 permalink: /Team/
 author_profile: true
