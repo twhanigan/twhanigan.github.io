@@ -1,7 +1,7 @@
 ---
 title: "Small Molecule Inhibitors of Complex IV Induce Imbalanced Pyrimidine Expansion in OXA1L Variant Cells"
 collection: publications
-permalink: /files/Pub1_Postdoctoral_2023
+permalink: /files/Pub1_Postdoctoral_2023.pdf
 excerpt: 'Discovery of first in class small molecules targeting the mitochondrial insertase OXA1L, and characterization of a common genetic vulnerability mediating selective lethality in non-small cell lung cancer.'
 date: 2024-08-29
 venue: 'Preprint'
