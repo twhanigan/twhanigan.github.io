@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Hiring Post-doctoral Researchers"
-collection: teaching
+collection: Team
 venue: "University of Houston Department of Pharmacological & Pharmaceutical Sciences"
 date: 2024-08-16
 location: "Houston, Texas"
