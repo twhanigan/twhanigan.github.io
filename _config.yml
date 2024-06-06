@@ -212,7 +212,18 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  Team:
+    output: true
+    permalink: /:collection/:path/
+  News:
+    output: true
+    permalink: /:collection/:path/
+  Resource:
+    output: true
+    permalink: /:collection/:path/
+  Download:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
