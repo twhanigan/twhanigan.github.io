@@ -13,10 +13,10 @@ main:
     url: /Team/    
     
   - title: "News"
-    url: /news/
+    url: /News/
         
   - title: "Resources"
-    url: /resources/
+    url: /Resources/
     
   - title: "Downloads"
-    url: /downloads/
+    url: /Downloads/

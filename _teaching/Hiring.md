@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Hiring Post-doctoral Researchers"
 collection: Team
 venue: "University of Houston Department of Pharmacological & Pharmaceutical Sciences"
