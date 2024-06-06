@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Hiring Post-doctoral Researchers"
 collection: teaching
 venue: "University of Houston Department of Pharmacological & Pharmaceutical Sciences"
