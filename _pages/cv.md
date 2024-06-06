@@ -10,10 +10,10 @@ redirect_from:
 {% include base_path %}
 
 Thomas W. Hanigan, Ph.D. 
-Department of Chemistry, The Scripps Research Institute 
-10550 North Torrey Pines Road La Jolla, California 92037 
-Tel: (319) 389-5342 Email: twhanigan@gmail.com 
-0000-0003-0752-4707 
+Department of Pharmacological and Pharmaceutical Sciences, The University of Houston 
+4349 Martin Luther King Boulevard Houston, Texas 77204-5000
+Tel: (319) 389-5342 Email: thanigan@central.uh.edu 
+Orcid: 0000-0003-0752-4707 
 
 Education 
 ======
@@ -24,7 +24,7 @@ Research Assistant  2018
 The University of Illinois 2012-2017 
 Ph.D. in Medicinal Chemistry  
 Iowa State University 2007-2012 
-B.S. in Chemistry  
+B.A. in Chemistry  
 B.S. in Materials Engineering  
 
 Research Experience 
