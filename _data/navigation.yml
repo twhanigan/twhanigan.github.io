@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Home"
-    url: /
+    url: 
 
   - title: "Research"
     url: /talks/    
@@ -18,3 +18,5 @@ main:
   - title: "Resources"
     url: /resources/
     
+  - title: "Downloads"
+    url: /downloads/
