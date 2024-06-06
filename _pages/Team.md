@@ -1,4 +1,5 @@
 ---
+layout: archive
 title: "Hiring Post-doctoral Researchers"
 collection: Team
 date: 2024-08-16
