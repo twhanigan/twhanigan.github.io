@@ -2,7 +2,7 @@
 title: "Proteomic discovery of chemical probes that perturb protein complexes in human cells"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'Novel function-first approach to discover molecules that disrupt multi-protein complexes, with focus on the splicing machinery'
 date: 2023-04-20
 venue: 'Molecular Cell'
 slidesurl: #'http://academicpages.github.io/files/slides3.pdf'
