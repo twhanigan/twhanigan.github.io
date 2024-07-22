@@ -9,4 +9,3 @@ paperurl: 'https://doi.org/10.1016/j.chembiol.2017.08.015'
 citation: 'Thomas W. Hanigan, Jonna Frasor, Pavel Petukhov. “Divergent JNK Phosphorylation of HDAC3 in Breast Cancer Cells Determines HDAC Inhibitor Binding and Selectivity. Cell Chemical Biology. 2017 Nov 16;24(11):1356-1367.e8. doi:10.1016/j.chembiol.2017.08.015.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
