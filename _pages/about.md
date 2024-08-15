@@ -18,9 +18,10 @@ Catabolic enzymes as drug targets
 ======
 In general, IEM result from a loss of catabolic reactions that break down reactive electrophilic or nucleophilic intermediary metabolites, which accumulate and spontaneously react with essential cellular proteins, nucleic acids, or cofactors. Thus, these proteins represent “validated” targets to specifically induce cell type specific toxicity through haploinsufficiency.
 
+![Alt text](/images/Platform.png)
 
-Chemical biology as a platform to identify novel cancer vulnerabilites and treatments for IEM
+Using chemical biology to identify novel cancer vulnerabilites and treatments for IEM
 ======
 To accomplish these goals, we use an interdisciplinary approach combining synthetic organic chemistry, chemical biology and systems pharmacology. Lab projects are focused on developing combinatorial synthetic platforms that leverage native metabolic reactions, methods to generate cellular models of recurrent CNA in cancer and metabolic disease, and novel chemical-proteomic and -genetic approaches to identify therapeutic targets of interest. 
 
-
+![Alt text](/images/Approach.png)
