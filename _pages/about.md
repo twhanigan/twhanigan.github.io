@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-In addition to gain- or loss-of-function mutations in oncogenes and tumor suppressors, copy number alterations (CNAs) that markedly influence the expression of these proteins play a critical role in tumorigenesis. Although oncogenes and tumor suppressors are often challenging to target with small molecule drugs, CNAs also impact the expression of thousands of metabolic enzymes, which present promising opportunities for therapeutic intervention. The Hanigan lab focuses on investigating a specific subset of these enzymes, particularly those whose loss-of-function leads to recessive metabolic disorders known as inborn errors of metabolism (IEM), with the goal of developing selective therapeutics for cancer and IEM. 
+In addition to gain- or loss-of-function mutations in oncogenes and tumor suppressors, copy number alterations (CNAs) that markedly influence the expression of these proteins play a critical role in tumorigenesis. Although oncogenes and tumor suppressors are often challenging to target with small molecule drugs, CNAs also impact the expression of thousands of metabolic enzymes, which present promising opportunities for therapeutic intervention. The Hanigan lab focuses on investigating a specific subset of these enzymes, particularly those whose loss-of-function leads to recessive metabolic disorders known as inborn errors of metabolism (IEM), with the goal of developing selective therapeutics for cancer and IEM.
+
 ![Alt text](/images/Collateral_Amplification.png)
 ------
 Figure 1: Collateral copy gain/loss of recessive disease-causing enzymes results in actionable cancer vulnerabilities
@@ -16,6 +17,7 @@ Figure 1: Collateral copy gain/loss of recessive disease-causing enzymes results
 Catabolic enzymes as drug targets
 ======
 In general, IEM result from a loss of catabolic reactions that break down reactive electrophilic or nucleophilic intermediary metabolites, which accumulate and spontaneously react with essential cellular proteins, nucleic acids, or cofactors. Thus, these proteins represent “validated” targets to specifically induce cell type specific toxicity through haploinsufficiency.
+
 ![Alt text](/images/PLP_Depletion_Ex.png)
 
 Chemical biology as a platform to identify novel cancer vulnerabilites and treatments for IEM
