@@ -20,7 +20,7 @@ In general, IEM result from biallic loss-of-function mutations in catabolic enzy
 
 ![Alt text](/images/Haploinsufficiency.png)
 
-Using chemical biology to identify novel cancer vulnerabilites and treatments for Metabolic Disease
+Using chemical biology to identify novel cancer vulnerabilites and treatments for metabolic disease
 ======
 To accomplish these goals, we use an interdisciplinary approach combining synthetic organic chemistry, chemical biology and systems pharmacology. Lab projects are focused on developing combinatorial synthetic platforms that leverage native metabolic reactions, methods to generate cellular models of recurrent CNA in cancer and metabolic disease, and novel chemical-proteomic and -genetic approaches to identify therapeutic targets of interest. 
 
