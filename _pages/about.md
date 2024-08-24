@@ -20,7 +20,7 @@ In general, IEM result from biallic loss-of-function mutations in catabolic enzy
 
 ![Alt text](/images/Haploinsufficiency.png)
 ------
-Figure 2: Generic metabolic pathway showing a vulnerabiilty resuting from hemizygous deletion of catabolic enzyme c (green).
+Figure 2: Metabolic pathway showing a vulnerabiilty resuting from hemizygous deletion of a catabolic enzyme (green).
 
 Leveraging metabolism to identify and drgu metabolic vulnerabilities
 ======
