@@ -16,7 +16,7 @@ Figure 1: Collateral copy gain/loss of recessive disease-causing enzymes results
 
 Catabolic enzymes as drug targets
 ======
-In general, IEM result from a loss of catabolic reactions that break down reactive electrophilic or nucleophilic intermediary metabolites, which accumulate and spontaneously react with essential cellular proteins, nucleic acids, or cofactors. Thus, these proteins represent “validated” targets to specifically induce cell type specific toxicity through haploinsufficiency.
+In general, IEM result from biallic loss-of-function mutations in catabolic enzymes that break down reactive electrophilic or nucleophilic intermediary metabolites, which accumulate and spontaneously react with essential cellular proteins, nucleic acids, or cofactors. Thus, these enzymes represent “validated” targets to specifically induce cell type specific toxicity through drug induced haploinsufficiency in cancer cells where the target enzyme has been collaterally deleted. Moreover, as opposed to biosynthetic enzymes, which often have redundant mechanisms to salvage or produce metabolic endproducts required for cell proliferation, targeting catabolic enzymes should be less prone to drug resistance through metaoblic plasticity.
 
 ![Alt text](/images/Haploinsufficiency.png)
 
