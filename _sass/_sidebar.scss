@@ -32,7 +32,7 @@
   }
 
   @include breakpoint($x-large) {
-    @include span(0 of 10);
+    
     max-width: $sidebar-link-max-width;
     padding-right: 25px;
   }
@@ -112,7 +112,7 @@
     display: block;
     width: 100%;
     padding-left: 0;
-    padding-right: 0;
+    padding-right: 25px;
   }
 }
 
