@@ -19,9 +19,13 @@ Catabolic enzymes as drug targets
 In general, IEM result from biallic loss-of-function mutations in catabolic enzymes that break down reactive electrophilic or nucleophilic intermediary metabolites, which accumulate and spontaneously react with essential cellular proteins, nucleic acids, or cofactors. Thus, these enzymes represent “validated” targets to specifically induce cell type specific toxicity through drug induced haploinsufficiency in cancer cells where the target enzyme has been collaterally deleted. Moreover, as opposed to biosynthetic enzymes, which often have redundant mechanisms to salvage or produce metabolic endproducts required for cell proliferation, catabolic enzyme targets should be less prone to drug resistance through metaoblic plasticity.
 
 ![Alt text](/images/Haploinsufficiency.png)
+------
+Figure 2: Generic metabolic pathway showing a vulnerabiilty resuting from hemizygous deletion of catabolic enzyme c (green).
 
 Using chemical biology to identify novel cancer vulnerabilites and treatments for metabolic disease
 ======
 To accomplish these goals, we use an interdisciplinary approach combining synthetic organic chemistry, chemical biology and systems pharmacology. Lab projects are focused on developing combinatorial synthetic platforms that leverage native metabolic reactions, methods to generate cellular models of recurrent CNA in cancer and metabolic disease, and novel chemical-proteomic and -genetic approaches to identify therapeutic targets of interest. 
 
 ![Alt text](/images/Approach.png)
+------
+Figure 3: Experimental approach combining combinatorial chemistry, high-content imaging and chemical proteomics.
