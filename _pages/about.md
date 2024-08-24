@@ -22,7 +22,7 @@ In general, IEM result from biallic loss-of-function mutations in catabolic enzy
 ------
 Figure 2: Metabolic pathway showing a vulnerabiilty resuting from hemizygous deletion of a catabolic enzyme (green).
 
-Leveraging metabolism to identify and drgu metabolic vulnerabilities
+Leveraging metabolism to identify and drug metabolic vulnerabilities
 ======
 To accomplish these goals, we use an interdisciplinary approach combining synthetic organic chemistry, chemical biology and systems pharmacology. Lab projects are focused on developing combinatorial synthetic platforms that leverage native metabolic reactions, methods to generate cellular models of recurrent CNA in cancer and metabolic disease, and novel chemical-proteomic and -genetic approaches to identify therapeutic targets of interest. 
 
