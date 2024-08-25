@@ -24,8 +24,8 @@ Figure 2: Metabolic pathway showing a vulnerabiilty resuting from hemizygous del
 
 Leveraging metabolism to identify and drug metabolic vulnerabilities
 ======
-To accomplish these goals, we use an interdisciplinary approach combining synthetic organic chemistry, chemical biology and systems pharmacology. Lab projects are focused on developing combinatorial synthetic platforms that leverage native metabolic reactions, methods to generate cellular models of recurrent CNA in cancer and metabolic disease, and novel chemical-proteomic and -genetic approaches to identify therapeutic targets of interest. 
+To accomplish these goals, we use an interdisciplinary approach combining synthetic organic chemistry, chemical biology and systems pharmacology. Lab projects are focused on developing combinatorial synthetic platforms that leverage native metabolic reactions, methods to generate cellular models of recurrent CNA in cancer and metabolic disease, and novel chemical-proteomic and -genetic approaches to identify therapeutic targets of interest. These projects combine both method development and application of these methods for basic and translational biology.
 
 ![Alt text](/images/Approach.png)
 ------
-Figure 3: Experimental approach combining combinatorial chemistry, high-content imaging and chemical proteomics.
+Figure 3: Combinatorial chemistry, high-content imaging and chemical proteomics.
