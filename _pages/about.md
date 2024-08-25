@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-In addition to gain- or loss-of-function mutations in oncogenes and tumor suppressors, copy number alterations (CNAs) that markedly influence the expression of these proteins play a critical role in tumorigenesis. Although oncogenes and tumor suppressors are often challenging to target with small molecule drugs, CNAs also impact the expression of thousands of metabolic enzymes, which present promising opportunities for therapeutic intervention. The Hanigan lab focuses on investigating a specific subset of these enzymes, particularly those whose loss-of-function leads to recessive metabolic disorders known as inborn errors of metabolism (IEM), with the goal of developing selective therapeutics for cancer and IEM.
+In addition to gain- or loss-of-function mutations in oncogenes and tumor suppressors, copy number alterations (CNAs) that markedly influence the expression of these proteins play a critical role in tumorigenesis. Although oncogenes and tumor suppressors are often challenging to target with small molecule drugs, CNAs also impact the expression of thousands of metabolic enzymes, which present promising opportunities for therapeutic intervention. The Hanigan lab focuses on investigating a specific subset of these enzymes, particularly those associated with the recessive metabolic disorders known as inborn errors of metabolism (IEM), with the goal of developing selective therapeutics for cancer and IEM.
 
 ![Alt text](/images/Collateral_Amplification.png)
 ------
