@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Chemical Biology Approach for de novo Discovery of Selectively Essential Metabolic Enzymes"
+title: "A Chemical Biology Approach for *de novo* Discovery of Selectively Essential Metabolic Enzymes"
 author_profile: true
 redirect_from: 
   - /about/
