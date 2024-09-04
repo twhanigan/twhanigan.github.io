@@ -8,4 +8,4 @@ date: 2024-09-04
 #slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://hanigan-lab.org/Protocols/Imaging/High_Content_Imaging_Protocols.docx'
 ---
-Common protocols for image-based assays measuring cell cycle, replication, mitochondrial and plasma membrane dynamics and metabolic flux 
+Common protocols for image-based assays measuring cell cycle, replication, mitochondria and plasma membrane dynamics and metabolic flux 
