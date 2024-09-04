@@ -224,10 +224,10 @@ collections:
   News:
     output: true
     permalink: /:collection/:path/
-  Resource:
+  Resources:
     output: true
     permalink: /:collection/:path/
-  Download:
+  Downloads:
     output: true
     permalink: /:collection/:path/
 
