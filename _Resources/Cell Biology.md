@@ -1,7 +1,7 @@
 ---
 title: "Cell Biology"
 collection: Resources
-permalink: /Resources/Cell_Biology
+permalink: /Resources/Cell Biology
 excerpt: 'Common protocols for cell based assays'
 date: 2024-09-04
 #venue: 'Preprint'
