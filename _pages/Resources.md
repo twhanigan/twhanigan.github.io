@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Resources"
-collection: Resources
 permalink: /Resources/
+author_profile: true
 #venue: "University of Houston Department of Pharmacological & Pharmaceutical Sciences"
 #date: 2024-08-16
 #location: "Houston, Texas"
