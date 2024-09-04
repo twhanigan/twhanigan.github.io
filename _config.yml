@@ -150,7 +150,8 @@ include:
   - .htaccess
   - _pages
   - files
-  - _Resources
+  - Protocols
+  - Protocols/Proteomics/
   - _Downloads
 exclude:
   - "*.sublime-project"
