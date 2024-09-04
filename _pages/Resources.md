@@ -1,6 +1,6 @@
 ---
-title: "Resources"
 layout: archive
+title: "Resources"
 collection: Resources
 permalink: /Resources/
 #venue: "University of Houston Department of Pharmacological & Pharmaceutical Sciences"
