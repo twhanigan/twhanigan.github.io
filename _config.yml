@@ -153,6 +153,7 @@ include:
   - Protocols
   - Protocols/Proteomics/
   - _Downloads
+  - Downloads
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
