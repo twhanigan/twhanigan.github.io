@@ -1,5 +1,5 @@
 ---
-title: "High-Content Analysis of Mitochondria"
+title: "High-Content Imaging"
 collection: Resources
 permalink: /Resources/Imaging
 excerpt: 'Common protocols for image-based assays measuring cell cycle, replication, mitochondrial and plasma membrane dynamics and metabolic flux'
