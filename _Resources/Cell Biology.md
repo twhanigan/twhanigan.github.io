@@ -1,7 +1,7 @@
 ---
-title: "High-Content Imaging"
+title: "Cell Biology"
 collection: Resources
-permalink: /Resources/Cell Biology
+permalink: /Resources/Cell_Biology
 excerpt: 'Common protocols for cell based assays'
 date: 2024-09-04
 #venue: 'Preprint'
