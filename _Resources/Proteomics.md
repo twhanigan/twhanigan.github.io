@@ -1,7 +1,7 @@
 ---
 title: "Chemical Proteomics"
 collection: publications
-permalink: \_Resources\Proteomics.md"
+permalink: \_Resources\Proteomics.md
 excerpt: 'In situ photolabeling and TMT-based proteomic analysis of Probe Targets'
 date: 2024-08-29
 #venue: 'Preprint'
