@@ -1,11 +1,11 @@
 ---
 title: "High-Content Imaging"
 collection: Resources
-permalink: /Resources/Imaging
-excerpt: 'Common protocols for image-based assays measuring cell cycle, replication, mitochondrial and plasma membrane dynamics and metabolic flux'
+permalink: /Resources/Cell Biology
+excerpt: 'Common protocols for cell based assays'
 date: 2024-09-04
 #venue: 'Preprint'
 #slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://hanigan-lab.org/Protocols/Imaging/High_Content_Imaging_Protocols.docx'
+paperurl: 'https://hanigan-lab.org/Protocols/Cell Biology/Cell_Biology_Protocols.docx'
 ---
-Common protocols for image-based assays measuring cell cycle, replication, mitochondria and plasma membrane dynamics and metabolic flux 
+Common protocols for cell based assays
