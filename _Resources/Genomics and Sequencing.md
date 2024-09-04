@@ -1,11 +1,11 @@
 ---
-title: "High-Content Imaging"
+title: "NGS"
 collection: Resources
-permalink: /Resources/Imaging
-excerpt: 'Common protocols for image-based assays measuring cell cycle, replication, mitochondrial and plasma membrane dynamics and metabolic flux'
+permalink: /Resources/NGS
+excerpt: 'Common protocols for WGS and RNA sequencing'
 date: 2024-09-04
 #venue: 'Preprint'
 #slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://hanigan-lab.org/Protocols/Imaging/High_Content_Imaging_Protocols.docx'
+paperurl: 'https://hanigan-lab.org/Protocols/NGS/NGS_Protocols.docx'
 ---
-Common protocols for image-based assays measuring cell cycle, replication, mitochondria and plasma membrane dynamics and metabolic flux 
+Common protocols for WGS/RNA sequencing assays and bioinformatic analysis of these datasets
