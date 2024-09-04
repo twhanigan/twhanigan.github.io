@@ -1,11 +1,11 @@
 ---
-title: "Combinatorial strategies to synthesize small molecule libraries and chemical probes for allosteric enzymes."
-collection: talks
-type: "Talk"
-
+title: "High-Content Analysis of Mitochondria"
+collection: Resources
+permalink: /Resources/Imaging
+excerpt: 'Common protocols for image-based assays measuring cell cycle, replication, mitochondrial and plasma membrane dynamics and metabolic flux'
+date: 2024-09-04
+#venue: 'Preprint'
+#slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://hanigan-lab.org/Protocols/Imaging/High_Content_Imaging_Protocols.docx'
 ---
-To balance biosynthesis and bioenergetic homeostasis, adenine nucleotides are incorporated into numerous intermediary amino acids, proteins, lipids, carbohydrates, and vitamins, which function as orthosteric substrates and cofactors, and/or allosteric ligands that can activate catabolic enzymes when energy levels are depleted. This type of metabolic regulation through combination extends far beyond adenine nucleotides.  In this project, we will use structure-based drug design, combinatorial chemistry and photoaffinity labeling to synthesize small molecule libraries biased towards allosteric catabolic enzymes and develop chemical proteomic platforms to delineate functional liganding events that modulate metabolic flux for treatment of metabolic disease. 
-
-![Alt text](/images/Figure_3.png)
-------
-Figure 3: Chemical biology platforms to allosterically modulate metabolism. 
+Common protocols for image-based assays measuring cell cycle, replication, mitochondrial and plasma membrane dynamics and metabolic flux 
