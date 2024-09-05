@@ -1,7 +1,7 @@
 ---
 title: "Molecular Biology"
 collection: Resources
-permalink: /Resources/Molecular_Biology
+permalink: /Resources/Molecular Biology
 excerpt: 'Common protocols for cloning, transfection and transduction into human cell lines'
 date: 2024-09-04
 #venue: 'Preprint'
