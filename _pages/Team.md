@@ -5,8 +5,8 @@ permalink: /Team/
 author_profile: true
 ---
 
-{% include base_path %}
+#{% include base_path %}
 
-{% for post in site.Team reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+#{% for post in site.Team reversed %}
+#  {% include archive-single.html %}
+#{% endfor %}
