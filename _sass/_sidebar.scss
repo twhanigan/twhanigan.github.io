@@ -110,7 +110,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 25%;
+    width: 100%;
     padding-left: 0;
     padding-right: 25px;
   }
@@ -148,11 +148,9 @@
 .author__bio {
   margin: 0;
   max-width: 20px;
-  overflow-wrap: break-word;
-  word-wrap: break-word;
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 }
 
