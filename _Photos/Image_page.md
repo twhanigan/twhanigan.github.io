@@ -1,11 +1,7 @@
 ---
 title: "Photos"
-collection: Team
-type: "archive"
+layout: default
 permalink: /Photos/Image_page
-date: 2024-08-16
-venue: "University of Houston Department of Pharmacological & Pharmaceutical Sciences"
-location: "Houston, Texas"
 ---
 
 # Image Gallery
