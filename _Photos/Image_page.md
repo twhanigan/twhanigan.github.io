@@ -1,7 +1,7 @@
 ---
 title: "Photos"
 layout: single
-permalink: /Photos/Image_page
+permalink: /Photos/
 author_profile: true
 ---
 ![Alt text](/images/Lab_Photos/20241030_174452.png)
