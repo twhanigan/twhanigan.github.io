@@ -8,7 +8,7 @@ author_profile: true
 # Image Gallery
 
 <div class="gallery">
-  {% assign images = site.static_files | where_exp: "file", "file.path contains '/images/Lab_Photos/' and file.ext in '.jpg, .jpeg, .png'" %}
+  {% assign images = site.static_files | where: "path", "/images/Lab_Photos/" %}
   {% for image in images %}
     <div class="gallery-item">
       <img src="{{ image.path | relative_url }}" alt="Image">
