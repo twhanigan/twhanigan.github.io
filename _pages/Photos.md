@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Photos"
-permalink: /Photos/Image_page
+permalink: /Photos/
 author_profile: true
 ---
 
