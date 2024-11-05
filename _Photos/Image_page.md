@@ -12,6 +12,8 @@ author_profile: true
 
 ![Alt text](/images/Lab_Photos/20241031_085727.png)
 
+![Alt text](/images/Lab_Photos/20241105_082538.png)
+
 # Lab Mascot
 
 ![Alt text](/images/Lab_Photos/20240830_200721.png)
