@@ -4,6 +4,7 @@ title: "Photos"
 permalink: /Photos/
 author_profile: true
 ---
+![Alt text](/images/Lab_Photos/20241030_174452.png)
 
 # Image Gallery
 
