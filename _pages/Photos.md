@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Photos"
+title: "Lab Photos"
 permalink: /Photos/
 author_profile: true
 ---
