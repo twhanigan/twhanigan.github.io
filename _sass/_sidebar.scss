@@ -151,7 +151,7 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
-    max-width: calc(100% - 50px);
+    max-width: 50px;
   }
 }
 
