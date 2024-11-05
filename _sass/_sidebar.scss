@@ -151,7 +151,11 @@
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 10px;
-    max-width: 100%;
+    max-width: 30%;
+  @include breakpoint($medium-wide) {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    max-width: 30%;
   }
 }
 
