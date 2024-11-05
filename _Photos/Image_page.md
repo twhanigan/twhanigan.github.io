@@ -1,7 +1,8 @@
 ---
 title: "Photos"
 layout: default
-permalink: /Photos/
+permalink: /Photos/Image_page
+author_profile: true
 ---
 
 # Image Gallery
