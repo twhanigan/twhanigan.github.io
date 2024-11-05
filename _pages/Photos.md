@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 title: "Photos"
 permalink: /Photos/
 author_profile: true
