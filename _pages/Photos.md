@@ -6,6 +6,16 @@ author_profile: true
 ---
 ![Alt text](/images/Lab_Photos/20241030_174452.png)
 
+![Alt text](/images/Lab_Photos/20241030_175049.png)
+
+![Alt text](/images/Lab_Photos/20241105_090109.png)
+
+![Alt text](/images/Lab_Photos/20241031_085727.png)
+
+# Lab Mascot
+
+![Alt text](/images/Lab_Photos/20240830_200721.png)
+
 # Image Gallery
 
 <div class="gallery">
