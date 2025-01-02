@@ -11,7 +11,10 @@ main:
 
   - title: "Team"
     url: /Team/    
-    
+  
+  - title: "Photos"
+    url: /Photos/
+
   - title: "News"
     url: /News/
         
