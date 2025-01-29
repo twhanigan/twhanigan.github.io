@@ -10,7 +10,7 @@ author_profile: true
 
 Phd. University of Illinois at Chicago.
 
-![Alt text](/images/Lab_Photos/wijitrmektong-wissarut.png)
+![Alt text](/images/Lab_Photos/wijitrmektong-wissarut-240x240.png)
 
 **Wissarut (Win) Wijitrmektong-Postdoctoral Fellow**
 
