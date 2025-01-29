@@ -5,7 +5,7 @@ permalink: /Team/
 author_profile: true
 ---
 
-<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; text-align: center;">
+<div style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap; text-align: center;">
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
         <img src="/images/Lab_Photos/Koinas-240x240.png" alt="Dimos Koinas" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
         <strong>Dimos Koinas - Postdoctoral Fellow</strong>
@@ -16,10 +16,10 @@ author_profile: true
         <img src="/images/Lab_Photos/wijitrmektong-wissarut-240x240.png" alt="Wissarut Wijitrmektong" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
         <strong>Wissarut (Win) Wijitrmektong - Postdoctoral Fellow</strong>
         <p>PhD. University of Houston.</p>
+        <p>My name is Wissarut Wijitrmektong, a pharmacist with extensive experience in pharmaceutical and analytical chemistry, as well as quality management systems, with a particular focus on late-stage pharmaceutical drug product development. Driven by a strong passion for early-stage drug discovery, I recently earned a Ph.D. in Medicinal Chemistry from the University of Houston in 2024 under the mentorship of Dr. Gregory Cuny. My doctoral research focused on structure-based drug optimization and the synthesis of kinase inhibitors targeting CDPK1, a protozoal kinase in Cryptosporidium parasites, for the treatment of cryptosporidiosis. As a recent graduate, I am eager to pursue new opportunities to enhance my expertise in chemical biology and computer-aided drug design, which are increasingly pivotal in modern drug discovery. My ultimate goal is to become a leader in the field, developing innovative therapeutics that address unmet clinical needs and improve human health. My leisure activities are watching movies/series, doing exercise e.g., table tennis, swimming, and dancing, as well as exploring new cafes and restaurants.</p>
     </div>
 </div>
 
-My name is Wissarut Wijitrmektong, a pharmacist with extensive experience in pharmaceutical and analytical chemistry, as well as quality management systems, with a particular focus on late-stage pharmaceutical drug product development. Driven by a strong passion for early-stage drug discovery, I recently earned a Ph.D. in Medicinal Chemistry from the University of Houston in 2024 under the mentorship of Dr. Gregory Cuny. My doctoral research focused on structure-based drug optimization and the synthesis of kinase inhibitors targeting CDPK1, a protozoal kinase in Cryptosporidium parasites, for the treatment of cryptosporidiosis. As a recent graduate, I am eager to pursue new opportunities to enhance my expertise in chemical biology and computer-aided drug design, which are increasingly pivotal in modern drug discovery. My ultimate goal is to become a leader in the field, developing innovative therapeutics that address unmet clinical needs and improve human health. My leisure activities are watching movies/series, doing exercise e.g., table tennis, swimming, and dancing, as well as exploring new cafes and restaurants.
 
 **Hiring**
 
