@@ -5,9 +5,12 @@ permalink: /Team/
 author_profile: true
 ---
 
+![Alt text](/images/Lab_Photos/Koinas-240x240.png)
 **Dimos Koinas-Postdoctoral Fellow**
 
 Phd. University of Illinois at Chicago.
+
+![Alt text](/images/Lab_Photos/wijitrmektong-wissarut.png)
 
 **Wissarut (Win) Wijitrmektong-Postdoctoral Fellow**
 
