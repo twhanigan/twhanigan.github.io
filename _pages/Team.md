@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 ![Alt text](/images/Lab_Photos/Koinas-240x240.png)
+
 **Dimos Koinas-Postdoctoral Fellow**
 
 Phd. University of Illinois at Chicago.
