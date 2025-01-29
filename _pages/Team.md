@@ -18,12 +18,6 @@ author_profile: true
         <p>PhD. University of Houston.</p>
         <p style="font-size: 10px;">I recently earned a Ph.D. in Medicinal Chemistry from the University of Houston under the mentorship of Dr. Gregory Cuny, where my research focused on structure-based drug optimization and the synthesis of kinase inhibitors targeting CDPK1 for cryptosporidiosis treatment. I am now eager to pursue new opportunities in chemical biology and computer-aided drug design to develop innovative therapeutics that address unmet clinical needs and improve human health. My leisure activities are watching movies/series, doing exercise e.g., table tennis, swimming, and dancing, as well as exploring new cafes and restaurants.</p>
     </div>
-
-    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
-        <img src="/images/Lab_Photos/Winnie_240x240.png" alt="Winnie The Dog" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
-        <strong>Winnie The Dog - Mascot</strong>
-        <p>PhD. Feather Foe University.</p>
-    </div>
 </div>
 
 
