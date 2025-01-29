@@ -5,7 +5,7 @@ permalink: /Team/
 author_profile: true
 ---
 
-<div style="display: flex; justify-content: center; gap: 80px; flex-wrap: wrap; text-align: center;">
+<div style="display: flex; justify-content: center; gap: 100px; flex-wrap: wrap; text-align: center;">
     <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
         <img src="/images/Lab_Photos/Koinas-240x240.png" alt="Dimos Koinas" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
         <strong>Dimos Koinas - Postdoctoral Fellow</strong>
