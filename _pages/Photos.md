@@ -38,7 +38,7 @@ author_profile: true
 
   <div style="flex: 1 1 100%; max-width: 100%; margin-top: 20px;">
     <video width="100%" controls>
-      <source src="/images/Lab_Photos/Flex_BCA_Vid_2.mp4" type="video/mp4">
+      <source src="/images/Lab_Photos/Flex_BCA_Vid_3.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
