@@ -569,3 +569,16 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three equal columns */
+  gap: 10px; /* Spacing between images */
+  max-width: 100%;
+}
+
+.gallery-item img {
+  width: 100%; /* Make images responsive */
+  height: auto;
+  display: block; /* Ensures no extra space below images */
+  border-radius: 5px; /* Optional: Adds rounded corners */
+}
