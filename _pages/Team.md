@@ -21,6 +21,22 @@ author_profile: true
     </div>
 </div>
 
+<div style="display: flex; justify-content: center; gap: 90px; flex-wrap: wrap; text-align: center; margin-top: 40px;">
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/Lab_Photos/Om-patel.jpg" alt="Om Patel" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+        <strong>Om Patel - Undergraduate Student</strong>
+        <p>B.S. University of Houston.</p>
+        <p style="font-size: 10px;">Studying Biochemistry and Data Science. Interests outside of lab: unknown.</p>
+    </div>
+
+    <div style="display: flex; flex-direction: column; align-items: center; max-width: 200px;">
+        <img src="/images/Lab_Photos/Adebola-akinrinade.jpg" alt="Adebola Akinrinade" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
+        <strong>Adebola Akinrinade - Undergraduate Student</strong>
+        <p>B.S. University of Houston.</p>
+        <p style="font-size: 10px;">Studying Biology, Biochemistry and Medicine. Interests outside of lab: unknown.</p>
+    </div>
+</div>
+
 
 **Hiring**
 
