@@ -33,7 +33,8 @@ author_profile: true
         <img src="/images/Lab_Photos/Adebola-akinrinade.jpg" alt="Adebola Akinrinade" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;">
         <strong>Adebola Akinrinade - Undergraduate Student</strong>
         <p>B.S. University of Houston.</p>
-        <p style="font-size: 10px;">Studying Biology, Biochemistry and Medicine. Interests outside of lab: unknown.</p>
+        <p style="font-size: 10px;">Outside of the lab, I enjoy staying active through weightlifting and recreational basketball. I’m also an avid reader, with a particular interest in science fiction and history. In my downtime, I like keeping up with the latest in sports and watching TV shows. My research interests center on understanding the cellular and molecular mechanisms underlying cancer development and progression. I am particularly interested in implementing concepts learned in biology, genetics, and biochemistry can be applied to investigate potential therapeutic targets. Through research, I aim to bridge classroom knowledge with real-world scientific inquiry and contribute to advancements in cancer treatment and translational medicine.
+.</p>
     </div>
 </div>
 
